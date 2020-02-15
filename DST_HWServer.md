@@ -1,0 +1,10 @@
+# 华为云服务器  
+## 配置
+1. 设置root密码
+1. 更改安全组为‘Sys-FullAccess’  
+1. 远程ssh连接  
+1. 更新软件  
+	`apt-get update`  
+	`apt-get upgrade`  
+1. [安装Agent监控插件](https://console.huaweicloud.com/ces/?region=cn-north-4#/hostsMonitor/agent?namespace=SYS.ECS)  
+1. e
