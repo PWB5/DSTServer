@@ -1,0 +1,76 @@
+KleiID:
+	KU_GlsWZ47t
+	KU_dNpFm7_u
+	KU_45sIjSTd
+	KU_dNpFm8Ea
+
+饥荒令牌:
+Used
+	pds-g^KU_GlsWZ47t^FnP4dQotlfmDaJG6RaLtM5nY59wrjffVOroDUkxXO2Y=
+	pds-g^KU_GlsWZ47t^ckbLVV79zCpo8EEE0k8SBuLAjpVq9W7S/4KdEPGTEIg=
+Free
+	pds-g^KU_GlsWZ47t^j9nxz8+ucOwDUm9KnkRxEsXkq/3jAwF3qX9z5wO7gxo=
+	pds-g^KU_GlsWZ47t^m2vg3cdrvhQE3sYb4w5ZaVX54kX9cWQ5kYIAWwx1fds=
+	pds-g^KU_GlsWZ47t^eufIIOUYoP6qwlCkGByMKwTweoWB15qX7+KEJJfH1dQ=
+
+c_connect("114.115.212.85",10999)
+
+账号:
+阿里云:
+C01	账号:panwb555
+	密码:bin2205577344
+C02	账号:panwf4(18928951254)
+	密码:bin2205577344
+S01	DSTS_AL01
+		47.240.33.107
+		root密码:Bin2205577344
+S02	DSTS_AL02	云服务器-上海
+		106.15.36.249
+		root密码:Bin2205577344
+		远程连接密码：607280
+S03	DSTS_AL03	轻量应用服务器-上海
+		47.102.133.229
+		root密码:Bin2205577344
+
+华为云:
+C11	账号:panwb5/15622539828
+	密码:bin2205577344
+
+C12	账号:panwb4/18928951254
+	密码:bin2205577344
+
+腾讯云：
+C22	账号:微信号PWB088990
+
+服务器Mod
+ServerModSetup("362175979")
+ServerModSetup("374550642")
+ServerModSetup("375850593")
+ServerModSetup("378160973")
+ServerModSetup("595764362")
+ServerModSetup("666155465")
+ServerModSetup("933727694")
+ServerModSetup("1207269058")
+ServerModSetup("1233501056")
+ServerModSetup("1275167632")
+
+Wormhole Marks [DST]	虫洞标记
+https://steamcommunity.com/sharedfiles/filedetails/?id=362175979
+Increased Stack size	堆栈大小增加
+https://steamcommunity.com/sharedfiles/filedetails/?id=374550642
+Extra Equip Slots		额外装备插槽
+https://steamcommunity.com/sharedfiles/filedetails/?id=375850593
+Global Positions		全图定位
+https://steamcommunity.com/sharedfiles/filedetails/?id=378160973
+Shard Configuration Mod	落水洞配置
+https://steamcommunity.com/sharedfiles/filedetails/?id=595764362
+Show Me 				显示更多信息
+https://steamcommunity.com/sharedfiles/filedetails/?id=666155465
+多层世界自动分流			多层世界自动分流
+https://steamcommunity.com/sharedfiles/filedetails/?id=933727694
+MyPet					宠物增强
+https://steamcommunity.com/sharedfiles/filedetails/?id=1275167632
+PartyHUD - Forked		状态栏显示队友血量
+https://steamcommunity.com/sharedfiles/filedetails/?id=1233501056
+简易血条DST				血量图形化
+https://steamcommunity.com/sharedfiles/filedetails/?id=1207269058
